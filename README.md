@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @happycrazy198
-- 👀 I’m interested in ... games
+- 👀 I’m interested in games and scripting
 - 🌱 I’m currently learning ... scripting
-- 📫 How to reach me ... not yet available
-- my favorite game is ---> mindustry!
+- my ★ game is ---> mindustry!
 
 <!---
 happycrazy198/happycrazy198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
